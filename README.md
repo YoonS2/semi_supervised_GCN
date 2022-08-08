@@ -4,6 +4,10 @@
 
 중간중간 주석을 달아놓았음.
 
+논문의 인용 여부로 : edge
+
+논문 주제를 학습시켜서 classification하는 내용임.
+
 참고 블로그: https://blog.naver.com/PostView.nhn?blogId=winddori2002&logNo=222183504185
 
 github:  https://github.com/zhulf0804/GCN.PyTorch, https://github.com/dragen1860/GCN-PyTorch, https://github.com/tkipf/pygcn 
